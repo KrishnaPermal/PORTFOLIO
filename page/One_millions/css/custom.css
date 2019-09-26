@@ -1,0 +1,16 @@
+#home{
+    background-image: url("../images/hero-image.jpg");
+    background-size: cover;
+    height: 100%;
+    /*filter: contrast(50%);*/
+    /*filter: brightness(20%);*/
+}
+
+.section{
+    width: 130px;
+    border-top: 2px solid rgb(241, 43, 25);
+    }
+
+#get-involved{
+background-color: rgb(245, 245, 245);    
+    }

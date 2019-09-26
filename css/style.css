@@ -1,0 +1,317 @@
+.background{
+    background-image: url("../img/techno.jpg");
+    height: 900px;
+    /*filter: contrast(50%);*/
+    filter: brightness(20%);
+}
+
+.item-center{
+    align-items: center;
+}
+
+
+/*.name {
+    padding-top: 20%;
+    padding-bottom: 20%;
+    font-size: 65px;
+    /*line-height: 71px;
+    color: #FFFFFF;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 25px;
+    padding-right: 25px;
+}*/
+
+
+
+/***********************Première Partie*****************************/
+
+
+
+/**********Encadrement**********/
+.bannerText {
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    text-align: center;
+    padding: 30px 0 30px;
+    max-width: 960px;
+    border: 15px solid rgb(255, 255, 255);
+    border-style: double;
+    background: rgba(255, 255, 255, 0);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffffff09, endColorstr=#fff);
+    zoom: 1;
+}
+
+.bannerText h1 {
+    font-size: 70px;
+    line-height: 80px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bannerText h2 {
+    font-size: 28px;
+    text-transform: none;
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+}
+/**********Encadrement**********/
+
+
+
+h3.centrer {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 36px;
+    line-height: 38px;
+    padding-bottom: 0px;
+    font-weight: 300;
+    text-transform: uppercase;
+    margin: 0px;
+    color: #FF4500;
+}
+
+h4{
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 26px;
+}
+
+h5{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 19px;
+    line-height: 24px;
+    padding-bottom: 22px;
+    font-weight: 600;
+    margin: 0px;
+
+}
+
+.a_propos{
+    background: #00bdbd;
+    color: #fff;
+    position: relative;
+    
+}
+
+.centrer{
+text-align: center;
+color: #fff;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 400;
+    padding-bottom: 22px;
+    margin: 0px;
+    color: rgb(255, 255, 255);
+}
+
+.propos{
+    text-align: center;
+}
+
+p.centrer{
+    color: #696969
+}
+
+.btnDownload{
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    background: #a0b5ccc4;
+    padding: 16px 22px;
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    outline: none;
+}
+/***********************Première Partie*****************************/
+
+
+
+/***********************************************************************************************************************/
+
+
+
+
+/***********************Compétences*****************************/
+
+.competences{
+    background: #FDF5E6;
+    color:#FF4500;
+    position: relative;
+}
+
+.progress{
+    background: #FFE4B5;
+}
+.progress-bar{
+    background-color: rgba(255, 68, 0, 0.774);
+}
+
+/***********************Compétences*****************************/
+
+
+
+
+/**********************************************************************************************************************/
+
+
+
+
+/**********************Expériences*****************************/
+.experiences{
+    background:rgba(255, 255, 255, 0.815);
+    color: #FF4500;
+    position: relative;
+}
+
+.col-sm-12{
+    padding-bottom: 10px;
+}
+
+p.card-text{
+    color: #696969;
+}
+
+.card{
+    padding: 30px 0 40px;
+    text-align: center;
+    overflow: hidden;
+    position: relative;
+}
+
+/**********************Expériences*****************************/
+
+
+
+
+
+
+/**********************Diplômes*****************************/
+
+.diplômes{
+    background: rgba(227, 231, 227, 0.712);
+    color: #FF4500;
+    position: relative;
+}
+/**********************Diplômes*****************************/
+
+
+
+
+
+
+
+
+
+/**********************Portfolio*****************************/
+.portfolio{
+    background: #fff;
+    color: #FF4500;
+    position: relative;
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 1px;
+    padding: 8px;
+    border: 0px solid rgb(19, 19, 19);
+}
+/**********************Portfolio*****************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**********************Contact*****************************/
+.contact{
+    background: rgba(227, 231, 227, 0.712);
+    color: #FF4500;
+    position: relative;
+}
+
+#map{ /* la carte DOIT avoir une hauteur sinon elle n'apparaît pas */
+    height:500px;
+    width: 900px;
+    display: flex;
+    margin: auto;    
+}
+/**********************Contact*****************************/
+
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+    background-color: #7e6565;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*header{
+     height: 800px;
+}
+
+section{
+    background-color: blueviolet; height: 600px;
+}
+
+footer{
+    background-color: brown; height: 600px;
+}*/
